@@ -1,1 +1,1 @@
-Allow students for attending hackathons
+Allow students for attending hackathons-only for 2nd years.
