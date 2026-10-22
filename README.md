@@ -1,0 +1,1 @@
+Allow students for attending hackathons
